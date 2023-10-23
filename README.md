@@ -4,7 +4,7 @@
 pip install pyperclip
 
 ## What is Password Manager application?
-Password Manager is an application that allows users to create, and save their passowrds for local applications or online services such as social media, online shops, web applications, etc. 
+Password Manager is an application that allows users to create, and save their passowrds for local applications or online services such as social media, online shops, web applications, etc. It is implemented with tkinter python library.
 
 ## How does it work?
 Step 1: User enters the name of the website that wants to create a password, or retrieve it if it is already created. 
