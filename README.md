@@ -24,8 +24,3 @@ https://github.com/CoboAr/Password-Manager/assets/144629565/bb502150-3807-4721-9
 Content of Json file created after creating 3 passwords for Facebook, Instagram, Twitter.
 
 <img width="1030" alt="Content of Json file" src="https://github.com/CoboAr/Password-Manager/assets/144629565/ca49aed8-105f-445e-8c2f-a7c9942a414b">
-
-Enjoy! And please do let me know if you have any comments, constructive criticism, and/or bug reports.
-## Author
-## Arnold Cobo
-
